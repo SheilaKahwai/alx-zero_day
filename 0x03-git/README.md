@@ -1,1 +1,1 @@
-New Directory
+Learning Git
